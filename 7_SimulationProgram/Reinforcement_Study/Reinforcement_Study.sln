@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reinforcement_Study", "Reinforcement_Study\Reinforcement_Study.vcxproj", "{50840679-EA6D-42E6-A88D-7BB45C992CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Debug|x64.ActiveCfg = Debug|x64
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Debug|x64.Build.0 = Debug|x64
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Debug|x86.ActiveCfg = Debug|Win32
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Debug|x86.Build.0 = Debug|Win32
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Release|x64.ActiveCfg = Release|x64
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Release|x64.Build.0 = Release|x64
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Release|x86.ActiveCfg = Release|Win32
+		{50840679-EA6D-42E6-A88D-7BB45C992CA3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9493F2AB-4978-44B9-96D2-9F8300A8F3D2}
+	EndGlobalSection
+EndGlobal
