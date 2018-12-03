@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\gyh\desktop\second_test_model\second_test_model\main.cpp(403): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+c:\users\gyh\desktop\second_test_model\second_test_model\main.cpp(403): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+c:\users\gyh\desktop\second_test_model\second_test_model\main.cpp(394): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\gyh\desktop\second_test_model\second_test_model\main.cpp(411): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\gyh\desktop\second_test_model\second_test_model\main.cpp(430): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  SIORSerial.cpp
+c:\users\gyh\desktop\second_test_model\second_test_model\siorserial.cpp(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  Second_Test_Model.vcxproj -> C:\Users\GYH\Desktop\Second_Test_Model\Debug\Second_Test_Model.exe

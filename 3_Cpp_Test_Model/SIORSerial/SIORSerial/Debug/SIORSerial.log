@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\gyh\desktop\gkd\graduate\컴공\siorserial\siorserial\main.cpp(403): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+c:\users\gyh\desktop\gkd\graduate\컴공\siorserial\siorserial\main.cpp(403): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+c:\users\gyh\desktop\gkd\graduate\컴공\siorserial\siorserial\main.cpp(394): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\gyh\desktop\gkd\graduate\컴공\siorserial\siorserial\main.cpp(411): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\gyh\desktop\gkd\graduate\컴공\siorserial\siorserial\main.cpp(430): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  SIORSerial.vcxproj -> C:\Users\GYH\Desktop\GKD\Graduate\컴공\SIORSerial\Debug\SIORSerial.exe
