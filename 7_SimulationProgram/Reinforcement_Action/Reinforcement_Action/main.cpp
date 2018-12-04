@@ -85,6 +85,10 @@ int main() {
 					ddx = temp_ddx;
 
 					ipv = iv;
+					if (iv > 32)
+						iv--;
+					else if (iv < 32)
+						iv++;
 					ipx = ret_idx_angle(px);
 					ipdx = ret_idx_dangle(pdx);
 					ipddx = pddx;

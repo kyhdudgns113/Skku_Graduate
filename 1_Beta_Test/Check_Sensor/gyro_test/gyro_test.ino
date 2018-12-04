@@ -279,7 +279,7 @@ void loop()
 		}
 
 
-		Serial.print(gx1, DEC);
+		Serial.print(gy1, DEC);
 		Serial.println(F(""));
 	}
 
